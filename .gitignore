@@ -1,0 +1,21 @@
+# 编译产物
+build/
+firmware/
+
+# SDK 和工具资源
+resources/
+sdk/
+
+# IDE / OS
+.vscode/
+.idea/
+.mrs/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# OpenCode 内部
+.omo
+.opencode.json
+.codegraph
